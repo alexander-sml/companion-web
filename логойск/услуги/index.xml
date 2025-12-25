@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Услуги - Логойск on Компаньон</title>
+    <link>http://localhost:1313/%D0%BB%D0%BE%D0%B3%D0%BE%D0%B9%D1%81%D0%BA/%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/</link>
+    <description>Recent content in Услуги - Логойск on Компаньон</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <atom:link href="http://localhost:1313/%D0%BB%D0%BE%D0%B3%D0%BE%D0%B9%D1%81%D0%BA/%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
